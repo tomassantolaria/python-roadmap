@@ -1,0 +1,11 @@
+Bienvenidos al Roadmap de Python. 
+Este es un proyecto inicial para procesar archivos de texto (archivo.txt).
+
+¿Qué estamos haciendo hoy? 
+1. Leer el archivo con Python.
+2. Contar palabras (¡sin contar los puntos y comas!).
+3. Limpiar el texto: pasar todo a minúsculas, sacar símbolos extraños...
+4. Guardar los resultados finales.
+
+Python es genial porque permite "automatizar las tareas aburridas", tal como dice el libro que estamos leyendo. 
+¡Manos a la obra! Es hora de codear.
